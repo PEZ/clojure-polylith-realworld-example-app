@@ -42,9 +42,11 @@ Then start the frontend and open http://localhost:3000/ in a web browser.
 2. Open the project in VSCode
 3. [Install Calva extension](https://calva.io/getting-started/#install-vs-code-and-calva), if you don't have it installed alreaady.
 4. Press F1 and select `Calva: Start a Project REPL and Connect (aka Jack-In)`
-> <img src=".media/readme/03_calva_jack_in.png" width="50%" >
+
+    <img src=".media/readme/03_calva_jack_in.png" width="50%" >
 5. In the `Project Selection` menu, select the `Workspace Root`
-> <img src=".media/readme/04_calva_project_selection.png" width="50%" >
+
+   <img src=".media/readme/04_calva_project_selection.png" width="50%" >
 
 Calva will start and connect to the REPL for you 💫
 
